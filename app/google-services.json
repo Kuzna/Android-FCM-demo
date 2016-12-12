@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "990063822603",
+    "firebase_url": "https://fir-cloud-messaging-3754f.firebaseio.com",
+    "project_id": "fir-cloud-messaging-3754f",
+    "storage_bucket": "fir-cloud-messaging-3754f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990063822603:android:ce9586bcba605205",
+        "android_client_info": {
+          "package_name": "cz.kuzna.android.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990063822603-3dsofr8fvq7st8fitdru2n4ckvphr570.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFxm1s1-MPRtbIjV7MY4lyznJHKBLY6YQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

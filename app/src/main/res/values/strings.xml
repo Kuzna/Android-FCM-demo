@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Cloud Messaging</string>
+
+    <string name="chat">Chat</string>
+    <string name="cloud_messaging">Cloud Messaging</string>
+    <string name="firebase">Firebase</string>
+
+    <string name="subscribe_chat">Subscribe chat</string>
+    <string name="token">Token:</string>
+    <string name="type_message">Type message</string>
+    <string name="unsubscribe_chat">Unsubscribe chat</string>
+
+</resources>
